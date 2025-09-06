@@ -1,3 +1,7 @@
 ## Hi there 👋
 
-[The_Neighbourhood_-_Softcore_54417242.mp3](https://github.com/user-attachments/files/22192000/The_Neighbourhood_-_Softcore_54417242.mp3)
+<audio controls>
+  <source src="music.mp3" type="audio/mpeg">
+  Ваш браузер не поддерживает аудио.
+</audio>
+
