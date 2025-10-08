@@ -11,7 +11,7 @@
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,fastapi,django,postgresql,redis,docker,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,fastapi,django,postgresql,redis,docker,linux&theme=dark)](https://skillicons.dev)
 
 
 
