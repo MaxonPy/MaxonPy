@@ -3,10 +3,6 @@
 
 ##### ⚡ I love diving into the internals of operating systems, compilers, and networking protocols. Understanding how things work “under the hood” is my passion
 
-### 📊 Statistics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MaxonPy&layout=compact&theme=radical)](https://github.com/MaxonPy)
-
 ### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,fastapi,django,postgresql,redis,docker,linux&theme=dark)](https://skillicons.dev)
