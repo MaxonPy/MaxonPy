@@ -5,9 +5,7 @@
 
 ### 📊 Statistics
 
-<a href="https://github.com/MaxonPy">
-  <img height="200" width="520" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=MaxonPy&layout=compact&langs_count=10&theme=radical&card_width=520" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MaxonPy&layout=compact&theme=radical)](https://github.com/MaxonPy)
 
 ### 🛠️ Tech Stack
 
